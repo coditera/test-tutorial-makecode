@@ -1,0 +1,20 @@
+{
+    "name": "coditera",
+    "version": "1.0.1",
+    "dependencies": {
+        "core": "*",
+        "builder": "*"
+    },
+    "files": [
+        "README.md",
+        "test-tutorial-makecode/prueba-tutorial/prueba.md",
+    ],
+    "targetVersions": {
+        "target": "1.6.8",
+        "targetId": "minecraft"
+    },
+    "supportedTargets": [
+        "minecraft"
+    ],
+    "preferredEditor": "tsprj"
+}
