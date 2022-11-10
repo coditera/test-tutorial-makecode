@@ -1,5 +1,5 @@
 {
-    "name": "coditera",
+    "name": "test-tutorial-makecode",
     "version": "1.0.1",
     "dependencies": {
         "core": "*",
@@ -7,7 +7,7 @@
     },
     "files": [
         "README.md",
-        "test-tutorial-makecode/prueba-tutorial/prueba.md",
+        "prueba-tutorial/prueba.md",
     ],
     "targetVersions": {
         "target": "1.6.8",
