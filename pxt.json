@@ -8,6 +8,9 @@
     "files": [
         "README.md",
         "prueba-tutorial/prueba.md",
+        "main.ts",
+        "no_coding.md",
+        "welcome.md",
     ],
     "targetVersions": {
         "target": "1.6.8",
