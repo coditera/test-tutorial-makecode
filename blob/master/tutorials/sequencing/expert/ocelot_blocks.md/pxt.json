@@ -1,16 +1,16 @@
 {
-    "name": "test-tutorial-makecode",
-    "version": "8.0.2",
+    "name": "blobmastertutorialssequencingexpertocelot_blocksmd",
     "dependencies": {
         "core": "*",
         "builder": "*"
     },
     "files": [
-        "README.md",
-        "prueba-tutorial/prueba.md",
+        "main.blocks",
         "main.ts",
-        "no_coding.md",
-        "welcome.md",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
     ],
     "targetVersions": {
         "target": "1.6.8",
@@ -19,5 +19,5 @@
     "supportedTargets": [
         "minecraft"
     ],
-    "preferredEditor": "tsprj"
+    "preferredEditor": "blocksprj"
 }
